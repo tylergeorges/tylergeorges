@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2>Hi, I'm Tyler Georges!</h2>
+<p>I am a Software Engineer</p>
 
-<!--
-**tylergeorges/tylergeorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### More about me
 
-Here are some ideas to get you started:
+```typescript
+class SoftwareEngineer {
+  name: string;
+  code: string[];
+  tools: string[];
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  constructor() {
+    this.name = "Tyler Georges";
+    this.code = ["TypeScript", "JavaScript", "HTML", "CSS"];
+    this.tools = ["React", "Node", "NextJS", "Tailwind", "Redux", "Zustand", "Styled-Components"];
+  }
+}
+```
