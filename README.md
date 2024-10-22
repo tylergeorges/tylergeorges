@@ -12,7 +12,7 @@ class SoftwareEngineer {
   constructor() {
     this.name = "Tyler Georges";
     this.code = ["TypeScript", "JavaScript", "HTML", "CSS"];
-    this.tools = ["React", "Node", "NextJS", "Tailwind", "Redux", "Zustand", "Styled-Components"];
+    this.tools = ["React", "Node", "NextJS", "Tailwind", "Drizzle", "Supabase", "Redux", "Zustand", "Styled-Components"];
   }
 }
 ```
